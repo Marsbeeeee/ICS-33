@@ -1,0 +1,12 @@
+
+{
+S
+1 hello [NAME]
+2 bye world
+}
+
+{
+NAME
+1 Alice
+1 Bob
+}
